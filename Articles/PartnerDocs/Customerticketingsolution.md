@@ -114,10 +114,12 @@ Just create an AppModel with the title and empty questions array.
 To send the ticket via API, we would be using the actions endpoint as shown below. Notice the subscribers array – since we need to send this targeted to the particular subscriber ( for more information, you can refer the post [Move SMS notifications to Kaizala](https://kaizala007.wordpress.com/2018/02/07/kaizala-subscriber-message/)).
 <br>Executing this API would give you the referenceId and actionId. Cache this actionId as we will need it in the next step. In the below example, we have set the customername, ticketnumber and ticketstatus properties to “NAME: John Thomas”,  “TICKET#: 907050”, “STATUS: ACTIVE” respectively.
 
-| Method  |      POST    |
-|----------|-------------|
-|**URL**|{{endpoint-url}}/v1/groups/{{test-group-id}}/actions|
-|**Request Body**|{<br>id:”com.gls.xyz.care”,<br>subscribers:[“{{subscriber-mobile-number}}”],<br>sendToAllSubscribers:false,<br>actionBody:{<br>properties:[<br>{<br>name:”customername”,<br>value:”NAME: John Thomas”,<br>type:”Text”<br>},<br>{<br>name:”ticketnumber”,<br>value:”TICKET#: 907050″,<br>type:”Text”<br>},<br>{<br>name:”ticketstatus”,<br>value:”STATUS: ACTIVE”,<br>type:”Text”<br>}<br>]<br>}<br>}|
+
+|      Method      |                                                                                                                                                                                                 POST                                                                                                                                                                                                 |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     **URL**      |                                                                                                                                                                         {{endpoint-url}}/v1/groups/{{test-group-id}}/actions                                                                                                                                                                         |
+| **Request Body** | {<br>id:”com.gls.xyz.care”,<br>subscribers:[“{{subscriber-mobile-number}}”],<br>sendToAllSubscribers:false,<br>actionBody:{<br>properties:[<br>{<br>name:”customername”,<br>value:”NAME: John Thomas”,<br>type:”Text”<br>},<br>{<br>name:”ticketnumber”,<br>value:”TICKET#: 907050″,<br>type:”Text”<br>},<br>{<br>name:”ticketstatus”,<br>value:”STATUS: ACTIVE”,<br>type:”Text”<br>}<br>]<br>}<br>} |
+
 ## Updating the ticket status using API
 As the ticket status changes, we would need to update the status on the card that was sent. For that we would be using the actions/<<action-id>>/properties endpoint. In the below example, we would be updating the ticket status to RESOLVED. Notice that the actionId is the ID of the action sent in the earlier step.
 

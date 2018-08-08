@@ -15,11 +15,11 @@ Here are the types of groups, their properties, and commonly used scenarios wher
 Once you have identified the group types and structure for your organization, you can either create groups directly using the app or you can use the Kaizala Management Portal to create groups and add users in Bulk using Excel.<p>
 You can create a group using the ‘+’ sign and add members to that group. If you want to add child groups, you can do that on the same screen where you are adding members – just select Groups instead of Contacts and all existing groups on your phone will show up. You will have to create the individual child groups first and then add them to the parent group.<p>
 Here are quick instructions on how to create these groups using the portal:<p> 
-1.	Login on [Kaizala Management Portal][5] with your Office 365 credentials or Kaizala Pro credentials.
-2.	Click on Upload CSV file under Add users in Bulk.
-3.	Download Excel templates and add mobile numbers and hierarchy information, if any.  
-4.	Browse and add both the files and click on Submit.
-5.	Once you see the information on the screen, click on Upload.
-6.	If you want to create public groups, click on Public Group from the left menu and go through Create flow.
+1. Login on [Kaizala Management Portal][5] with your Office 365 credentials or Kaizala Pro credentials.
+2. Click on Upload CSV file under Add users in Bulk.
+3. Download Excel templates and add mobile numbers and hierarchy information, if any.  
+4. Browse and add both the files and click on Submit.
+5. Once you see the information on the screen, click on Upload.
+6. If you want to create public groups, click on Public Group from the left menu and go through Create flow.
   
 For detailed instructions on creating groups and adding members to it, please refer [here.][6]  

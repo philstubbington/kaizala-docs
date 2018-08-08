@@ -1,0 +1,1981 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/1/s/target_repo/Articles",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "source_relative_path": "Actions/chatcardviewjson.png",
+      "output": {
+        "resource": {
+          "relative_path": "Actions/chatcardviewjson.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Actions/icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "Actions/icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/Actions/chatcardviewjson.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/Actions/chatcardviewjson.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/Actions/icon.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/Actions/icon.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Create Group.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Create Group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Action cards.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Action cards.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actioncards.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actioncards.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions1.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions2.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions3.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions4.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions5.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions6.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions7.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions8.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Actions8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsAttendance.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsAttendance.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsDiscoverMore.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsDiscoverMore.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsLocation.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsLocation.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsMeeting.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsMeeting.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsTraining.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ActionsTraining.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Admin.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Admin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Admin2.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Admin2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Analytics.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Analytics.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Appandplaystoreicons.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Appandplaystoreicons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Articals.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Articals.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Chatcanvashello.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Chatcanvashello.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Create Group.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Create Group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Custom Actions.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Custom Actions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Custom Actions1.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Custom Actions1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Customer ticketing solution.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Customer ticketing solution.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Defence in Depth.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Defence in Depth.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/EntireOrg.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/EntireOrg.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Excel Add-in1.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Excel Add-in1.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Excel Add-in2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Excel Add-in2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Excel Add-in3.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Excel Add-in3.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ExportUsers.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ExportUsers.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Extensibilty.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Extensibilty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ExtensiblePlatform.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ExtensiblePlatform.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage _1.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage _1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/GetImage_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Groups.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Groups_NothZoneSales.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Groups_NothZoneSales.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Groups_NothZoneSales2.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Groups_NothZoneSales2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Hierarchical1.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Hierarchical1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Hierarchical2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Hierarchical2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Hirarical.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Hirarical.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/IT Administrator.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/IT Administrator.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Intune.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Intune.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Invitelink.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Invitelink.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Kaizal actions.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Kaizal actions.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Kaizala Pilot group.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Kaizala Pilot group.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_4.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_4.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_5.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_5.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_6.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_6.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_Actions.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_Actions.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_MailReceived.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_MailReceived.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_Search.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_Search.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_Triggers.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/MailFlow_Triggers.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Manageability.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Manageability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ManagementPortal.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ManagementPortal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Managment Portal.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Managment Portal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Microsoft kaizala overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Microsoft kaizala overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Navigattionsteps.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Navigattionsteps.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Optimized.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Optimized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Public group.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Public group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Public1.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Public1.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Public2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Public2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Public3.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Public3.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Public4.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Public4.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Refresh_ExcelAdd-in.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Refresh_ExcelAdd-in.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/ReportingAnalytics.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/ReportingAnalytics.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/RepublicWorld.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/RepublicWorld.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Scenario walkthrough.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Scenario walkthrough.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/SecurityOverview.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/SecurityOverview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/SecurityThreat.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/SecurityThreat.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Share_ExcelAdd-in.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Share_ExcelAdd-in.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Ticket after updating the status from API.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Ticket after updating the status from API.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Ticket sent from API.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Ticket sent from API.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/Usage Telemetry.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/Usage Telemetry.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/appstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/appstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/contoso sales.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/contoso sales.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/PartnerDocs/Images/contosoAll.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/PartnerDocs/Images/contosoAll.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/images/Chatcard.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/images/Chatcard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/images/CreationView.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/images/CreationView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/images/ResponseView.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/images/ResponseView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/images/SummaryView.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/images/SummaryView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/images/appstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/images/appstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/images/playstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/images/playstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "Kaizala-Docs/images/windowsstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "Kaizala-Docs/images/windowsstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Create Group.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Create Group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Action cards.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Action cards.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actioncards.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actioncards.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions1.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions2.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions3.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions4.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions4.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions5.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions5.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions6.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions6.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions7.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions7.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Actions8.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Actions8.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ActionsAttendance.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ActionsAttendance.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ActionsDiscoverMore.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ActionsDiscoverMore.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ActionsLocation.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ActionsLocation.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ActionsMeeting.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ActionsMeeting.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ActionsTraining.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ActionsTraining.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Admin.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Admin.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Admin2.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Admin2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Analytics.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Analytics.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Appandplaystoreicons.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Appandplaystoreicons.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Articals.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Articals.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Chatcanvashello.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Chatcanvashello.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Create Group.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Create Group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Custom Actions.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Custom Actions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Custom Actions1.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Custom Actions1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Customer ticketing solution.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Customer ticketing solution.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Defence in Depth.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Defence in Depth.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/EntireOrg.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/EntireOrg.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Excel Add-in1.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Excel Add-in1.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Excel Add-in2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Excel Add-in2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Excel Add-in3.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Excel Add-in3.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ExportUsers.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ExportUsers.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Extensibilty.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Extensibilty.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ExtensiblePlatform.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ExtensiblePlatform.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/GetImage _1.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/GetImage _1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/GetImage.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/GetImage.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/GetImage_2.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/GetImage_2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/GetImage_3.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/GetImage_3.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Groups.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Groups.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Groups_NothZoneSales.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Groups_NothZoneSales.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Groups_NothZoneSales2.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Groups_NothZoneSales2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Hierarchical1.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Hierarchical1.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Hierarchical2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Hierarchical2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Hirarical.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Hirarical.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/IT Administrator.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/IT Administrator.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Intune.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Intune.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Invitelink.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Invitelink.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Kaizal actions.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Kaizal actions.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Kaizala Pilot group.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Kaizala Pilot group.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/MailFlow_4.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/MailFlow_4.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/MailFlow_5.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/MailFlow_5.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/MailFlow_6.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/MailFlow_6.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/MailFlow_Actions.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/MailFlow_Actions.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/MailFlow_MailReceived.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/MailFlow_MailReceived.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/MailFlow_Search.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/MailFlow_Search.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/MailFlow_Triggers.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/MailFlow_Triggers.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Manageability.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Manageability.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ManagementPortal.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ManagementPortal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Managment Portal.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Managment Portal.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Microsoft kaizala overview.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Microsoft kaizala overview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Navigattionsteps.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Navigattionsteps.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Optimized.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Optimized.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Public group.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Public group.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Public1.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Public1.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Public2.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Public2.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Public3.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Public3.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Public4.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Public4.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Refresh_ExcelAdd-in.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Refresh_ExcelAdd-in.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/ReportingAnalytics.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/ReportingAnalytics.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/RepublicWorld.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/RepublicWorld.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Scenario walkthrough.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Scenario walkthrough.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/SecurityOverview.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/SecurityOverview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/SecurityThreat.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/SecurityThreat.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Share_ExcelAdd-in.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Share_ExcelAdd-in.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Ticket after updating the status from API.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Ticket after updating the status from API.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Ticket sent from API.PNG",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Ticket sent from API.PNG"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/Usage Telemetry.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/Usage Telemetry.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/appstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/appstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/contoso sales.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/contoso sales.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "PartnerDocs/Images/contosoAll.png",
+      "output": {
+        "resource": {
+          "relative_path": "PartnerDocs/Images/contosoAll.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/Chatcard.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/Chatcard.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/CreationView.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/CreationView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/ResponseView.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/ResponseView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/SummaryView.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/SummaryView.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/appstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/appstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/playstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/playstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/windowsstore.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/windowsstore.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

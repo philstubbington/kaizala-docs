@@ -8,7 +8,7 @@ We understand that the needs of every organization vary and they would require f
 All Actions that are published to a set of users can be invoked by them on any groups that Action had been added to. 
 
 > **Note:** Custom Actions can only be added to organization groups.
-
+> 
 > **Note :** [Kaizala Management Portal](https://manage.kaiza.la) is the gateway for all development, testing and publishing of new Kaizala Actions.
 
 ## Understanding Kaizala Action

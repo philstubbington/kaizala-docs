@@ -28,7 +28,7 @@ Corresponding content-type(mime type) needs to be set in content header of the m
 ### Request Parameters
 
 |  | Parameter | Type | Optional? | Description |
-| :---: | :---: | :---: | :---:	| :--- |
+| :---: | :---: | :---: | :---: | :--- |
 | HTTP Header | accessToken | String | No | Access Token received from the auth end-point |
 | HTTP Header | Content-Type | String | No | To indicate that a file is being uploaded. value: multipart/form-data |
 
@@ -53,7 +53,7 @@ Once you have uploaded the media file, you can post a media file to a group by u
 ### Request Parameters
 
 |  | Parameter | Type | Optional? | Description |
-| :---: | :---: | :---: | :---:	| :--- |
+| :---: | :---: | :---: | :---: | :--- |
 | URL Path Parameter | groupId | String | No | GUID representing the groupId of the specific group resource |
 | HTTP Header | accessToken | String | No | Access Token received from the auth end-point |
 | HTTP Header | Content-Type | String | No | value: application/json |
@@ -68,7 +68,7 @@ Once you have uploaded the media file, you can post a media file to a group by u
 #### actionBody for media files
 
 | Parameter | Type | Optional? | Description |
-| :---: | :---: | :---:	| :--- |
+| :---: | :---: | :---: | :--- |
 | mediaResource | String | No | MediaResource string from a previous call to /media where you need to upload the attachment |
 | caption | String | Yes | Text String that is shown alongwith the media file as a part of the message |
 
@@ -83,7 +83,6 @@ Once you have uploaded the media file, you can post a media file to a group by u
                 caption: "Sample test caption"
                 }
 }
-
 ```
 
 #### Sample JSON Response
